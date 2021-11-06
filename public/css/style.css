@@ -1,0 +1,17 @@
+.nav-link:hover {
+    background-color: #525252;
+    color: #fff !important
+}
+
+.nav-link {
+    transition: all 1s;
+}
+
+.nav-link .fal {
+    transition: all 1s;
+}
+
+.nav-link:hover .fal {
+    transform: rotate(360deg);
+    color: #fff !important
+}
