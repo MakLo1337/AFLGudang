@@ -13,7 +13,7 @@
             <dd class="col-sm-9">{{ $barangs->jumlah }}</dd>
 
             <dt class="col-sm-3">Tanggal Barang Masuk :</dt>
-            <dd class="col-sm-9">{{ $barangs->added_time }}&#179;</dd>
+            <dd class="col-sm-9">{{ $barangs->added_time }}</dd>
 
             <dt class="col-sm-3">Berada Di Gudang:</dt>
             <dd class="col-sm-9">

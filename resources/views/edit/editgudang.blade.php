@@ -27,7 +27,7 @@
                     <i class="fal fa-arrow-left"></i>
                     Kembali
                 </a>
-                <button type="submit" class="btn btn-primary">Tambah</button>
+                <button type="submit" class="btn btn-primary">Simpan</button>
             </div>
         </form>
         <hr class="my-2">
